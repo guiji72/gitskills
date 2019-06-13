@@ -5,3 +5,5 @@ i am chinaese
 thank you
 
 git is free software  master-bug
+
+bug 111121
