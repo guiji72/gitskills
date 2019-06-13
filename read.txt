@@ -4,4 +4,4 @@ i am chinaese
 
 thank you
 
-git is free software
+git is free software  master-bug
